@@ -13,9 +13,8 @@ Goal of the game is to protect atoms using shields, from radioactive beams emitt
 `./radioactive_donut` after build.
 
 ### Controls:
-To start the game move the player.
+To start, move the player!
 
-### Controls:
 | Key | Description|
 | :-------------: | :-----------------: |
 | `W`,`A`,`S`,`D` | move player |
